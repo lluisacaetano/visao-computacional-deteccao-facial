@@ -1,0 +1,13 @@
+# Ambiente virtual Python (regeneravel, ~165 MB)
+.venv/
+
+# Cache do Python
+__pycache__/
+*.pyc
+
+# Frames temporarios de teste
+_amostra_*.jpg
+_prova.jpg
+
+# Arquivos do sistema
+.DS_Store
